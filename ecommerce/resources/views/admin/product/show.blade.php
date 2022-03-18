@@ -172,7 +172,6 @@
                   </div><!-- form-layout -->
                 </div><!-- card -->  
 
-            
     </div> {{-- row --}}
       
    
