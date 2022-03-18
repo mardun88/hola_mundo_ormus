@@ -161,9 +161,9 @@
                         </div>
                         <div class="col-lg-4">   
                             @if ($product->hot_new == 1)
-                                <span class="badge badge-success">Active</span>
+                                <span class="badge badge-success">inactive</span>
                             @else
-                                <span class="badge badge-danger">Inactive</span>
+                                <span class="badge badge-danger">active</span>
                             @endif
                             <span>Hot New</span>
                         </div>
